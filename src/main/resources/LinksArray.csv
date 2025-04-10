@@ -1,0 +1,3 @@
+Use Case,Web URL,App Deeplink
+1,https://www.google.com,some-app-deeplink://something?url=something%etc
+2,https://www.amazon.com,some-second-app-deeplink://something?url=something%etc2
